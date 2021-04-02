@@ -10,7 +10,7 @@ you need to specify the amount of money you spent. You can choose to pass those 
 in **US dollars (USD)** or **Argentine pesos (ARS)**, but the total for the month is returned in **USD** <br/>
 <br/>
 Clarification: The data used for the conversion is static and corresponds to the current<br/>
-value on the date the repository was loaded. <br/>
+value on the date the repository was created. <br/>
 <br/>
 
 ## How to set it up
