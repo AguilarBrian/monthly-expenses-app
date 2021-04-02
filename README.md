@@ -18,12 +18,12 @@ value on the date the repository was loaded. <br/>
 To see how it works, simply clone this respository or a fork of this repository<br/>
 and run `npm i` or `npm install` on the root (or main) folder.<br/>
 <br/>
-Once you have done this, if you are on the root folder, you can run `tsc -w`.<br/>
+Once you have done this, if you are in the root folder, you can run `tsc -w`.<br/>
 and then open the HTML file at `public/index.html`.
 <br/>
 
 ## How to use it
 
 It is a simple expenses app.<br/>
-Just add a description and a cost in the input bar and then click<br/> on the blue **Add** button.
-<br/>
+Just add a description and a cost in the input bar and then click<br/> on the blue **Add** button.<br/>
+You can delete an expense by clicking on the **Delete** button
